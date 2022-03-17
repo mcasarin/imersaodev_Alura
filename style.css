@@ -1,0 +1,41 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    background-color: #84ffd3;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: #5c5c5c;
+    padding: 1em 0;
+}
+main {
+    text-align: center;
+    background-color: #beb3f1;
+    height: 100vh;
+}
+section figure img {
+    border-radius: 50%;
+    width: 144px;
+    height: 144px;
+}
+figure {
+    padding: 64px;
+}
+figcaption {
+    font-size: 20px;
+    font-weight: 600;
+    color:#5c5c5c;
+}
+ul {
+
+}
+li {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.15);
+    border-radius: 0px 32px 0px 0px;
+    padding: 19px 0;
+}
+li a {
+    
+}
